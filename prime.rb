@@ -4,7 +4,7 @@
    if n < 0 
      return false
    else 
-     until x > n 
+     until x == n 
        if n % x == 0 
          return false 
        end 
