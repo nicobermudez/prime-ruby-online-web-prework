@@ -1,7 +1,6 @@
 # Add  code here!
 def prime?(n)
-  range = 0..n
-  for x in range
+  for x in 0..n
     
 end
  
