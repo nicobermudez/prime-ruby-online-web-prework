@@ -3,13 +3,13 @@
    x = 2 
    if n < 0 
      return false
-  else 
-      
+   else 
      until x > n 
        if n % x == 0 
          return false 
        end 
        x+= 1
      end
+   end
  end
  
